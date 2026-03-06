@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0575E6,021B79&height=220&section=header&text=Elise%20(HongKi)&fontSize=65&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Elise%20(HongKi)&fontSize=65&fontAlignY=35&animation=fadeIn" width="100%"/>
   
   <a href="https://github.com/Elise-K-Dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Ops+Engineer;Rust+%26+Data+Engineering;Edge+Computing+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F92672&center=true&vCenter=true&width=500&lines=AI+%26+ML+Ops+Engineer;Rust+%26+Data+Engineering;Edge+Computing+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,18 +21,21 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-21262D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/TensorFlow-21262D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-  <img src="https://img.shields.io/badge/CUDA-21262D?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-  <img src="https://img.shields.io/badge/ROCm-21262D?style=for-the-badge&logo=amd&logoColor=ED1C24"/>
-  <img src="https://img.shields.io/badge/Rust-21262D?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-FF9900?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <br>
-  <img src="https://img.shields.io/badge/Data_Engineering-21262D?style=for-the-badge&logo=databricks&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-21262D?style=for-the-badge&logo=archlinux&logoColor=1793D1"/>
-  <img src="https://img.shields.io/badge/Ubuntu-21262D?style=for-the-badge&logo=ubuntu&logoColor=E95420"/>
-  <img src="https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-21262D?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Data_Engineering-1572B6?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <br>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF&labelColor=FFFFFF"/>
 </div>
 
 <br>
@@ -65,10 +68,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elise-K-Dev&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D" alt="Elise's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elise-K-Dev&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elise-K-Dev&show_icons=true&hide_bg=true&title_color=F92672&text_color=9900CC&icon_color=F92672&border_color=30363D" alt="Elise's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elise-K-Dev&layout=compact&hide_bg=true&title_color=F92672&text_color=9900CC&border_color=30363D" alt="Top Languages" height="150" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Elise-K-Dev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Elise-K-Dev&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="visitor count" />
 </div>
