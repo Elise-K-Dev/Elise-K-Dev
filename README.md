@@ -26,22 +26,15 @@
 
 ### 📂 Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h4>🧠 AI & LLM</h4>
-      <a href="https://github.com/Elise-K-Dev/Medical-CoT-SFT-Dataset-Generator"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" /> <b>Medical-CoT-SFT</b></a><br>
-      <a href="https://github.com/Elise-K-Dev/DeepSeek_Project"><img src="https://cdn.simpleicons.org/python/3776AB" height="14" /> <b>DeepSeek-Project</b></a><br>
-      <a href="https://github.com/Elise-K-Dev/HAI_LLM_Project"><img src="https://cdn.simpleicons.org/nvidia/76B900" height="14" /> <b>LG-EXAONE-Tuning</b></a>
-    </td>
-    <td width="50%" align="center">
-      <h4>⚙️ Data & Infra</h4>
-      <a href="#"><img src="https://cdn.simpleicons.org/rust/E43716" height="14" /> <b>Enterprise-Docs-Auto</b></a><br>
-      <a href="https://github.com/Elise-K-Dev/Groundwater-Forecasting-Model-For-JEJU"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" /> <b>Forecasting-JEJU</b></a><br>
-      <a href="https://github.com/Elise-K-Dev/ubuntu-server-docker-setup"><img src="https://cdn.simpleicons.org/docker/2496ED" height="14" /> <b>Server-Setup-Script</b></a>
-    </td>
-  </tr>
-</table>
+**AI & Machine Learning**
+- <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" /> **[Medical-CoT-SFT](https://github.com/Elise-K-Dev/Medical-CoT-SFT-Dataset-Generator)** — 120B 모델 활용 의료 데이터 파이프라인
+- <img src="https://cdn.simpleicons.org/python/3776AB" height="14" /> **[DeepSeek-Project](https://github.com/Elise-K-Dev/DeepSeek_Project)** — DeepSeek 모델 파인튜닝 및 가속화
+- <img src="https://cdn.simpleicons.org/nvidia/76B900" height="14" /> **[LG-EXAONE-Tuning](https://github.com/Elise-K-Dev/HAI_LLM_Project)** — EXAONE 맞춤형 튜닝 및 성능 검증
+
+**Data & Infrastructure**
+- <img src="https://cdn.simpleicons.org/rust/E43716" height="14" /> **Enterprise-Docs-Auto** — Rust 기반 대용량 문서 고속 처리 시스템
+- <img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" /> **[Forecasting-JEJU](https://github.com/Elise-K-Dev/Groundwater-Forecasting-Model-For-JEJU)** — 제주 지하수 수위 시계열 예측 모델
+- <img src="https://cdn.simpleicons.org/docker/2496ED" height="14" /> **[Server-Setup-Script](https://github.com/Elise-K-Dev/ubuntu-server-docker-setup)** — 인프라 구축 자동화 Bash/Docker 스택
 
 <br>
 
