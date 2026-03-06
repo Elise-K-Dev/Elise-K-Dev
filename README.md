@@ -21,16 +21,21 @@
 ### 🛠 Tech Stack
 
 <div align="center">
+  <b>🧠 AI, ML & Hardware Acceleration</b><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/LLM_Fine--Tuning-FF9900?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <br>
+  <br><br>
+
+  <b>🦀 System & Data Processing</b><br>
   <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Data_Engineering-1572B6?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <br>
+  <br><br>
+
+  <b>⚙️ Infrastructure, OS & Edge Devices</b><br>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=FFFFFF"/>
