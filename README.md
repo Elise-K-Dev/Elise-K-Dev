@@ -12,29 +12,29 @@
 
 > **"Turning Complex Data into Intelligent Systems"**
 
-- 🧠 **AI & ML Ops:** DeepSeek, EXAONE 등 LLM 파인튜닝과 다양한 딥러닝 아키텍처 설계, CUDA/ROCm 하드웨어 가속 최적화.
-- 🦀 **System & Data:** Rust 기반 고속 데이터 처리 및 문서 자동화, 환경 데이터(수위/수질) 심층 시계열 분석.
-- ⚙️ **Infrastructure:** Ubuntu/Docker 기반 인프라부터 Arch Linux, Raspberry Pi, NVIDIA Jetson 등 엣지 AI 환경 구축.
+- **AI & ML Ops:** DeepSeek, EXAONE 등 LLM 파인튜닝과 다양한 딥러닝 아키텍처 설계, CUDA/ROCm 하드웨어 가속 최적화.
+- **System & Data:** Rust 기반 고속 데이터 처리 및 문서 자동화, 환경 데이터(수위/수질) 심층 시계열 분석.
+- **Infrastructure:** Ubuntu/Docker 기반 인프라부터 Arch Linux, Raspberry Pi, NVIDIA Jetson 등 엣지 AI 환경 구축.
 
 <br>
 
 ### 🛠 Tech Stack
 
 <div align="center">
-  <b>🧠 AI, ML & Hardware Acceleration</b><br><br>
+  <b>AI, ML & Hardware Acceleration</b><br><br>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" title="PyTorch" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" title="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="45" title="CUDA & NVIDIA Jetson" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/amd/ED1C24" height="45" title="ROCm" />
   <br><br><br>
 
-  <b>🦀 System & Data Processing</b><br><br>
+  <b>System & Data Processing</b><br><br>
   <img src="https://cdn.simpleicons.org/rust/E43716" height="45" title="Rust" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" height="45" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" title="Data Engineering" />
   <br><br><br>
 
-  <b>⚙️ Infrastructure, OS & Edge Devices</b><br><br>
+  <b>Infrastructure, OS & Edge Devices</b><br><br>
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" title="Arch Linux" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" title="Ubuntu" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" title="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">🧠 AI & LLM</h4>
+      <h4 align="center">AI & LLM</h4>
       <ul>
         <li><b><a href="https://github.com/Elise-K-Dev/Medical-CoT-SFT-Dataset-Generator">Medical-CoT-SFT-Dataset</a></b><br>120B 모델 CoT 활용 의료 도메인 데이터 파이프라인</li><br>
         <li><b><a href="https://github.com/Elise-K-Dev/DeepSeek_Project">DeepSeek_Project</a></b><br>DeepSeek 모델 파인튜닝 및 최적화 (캡스톤)</li><br>
@@ -56,7 +56,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">⚙️ Data & Infrastructure</h4>
+      <h4 align="center">Data & Infrastructure</h4>
       <ul>
         <li><b>Enterprise Docs Auto (Rust)</b><br>대용량 데이터 고속 파싱 및 문서(DOCX) 자동화</li><br>
         <li><b><a href="https://github.com/Elise-K-Dev/Groundwater-Forecasting-Model-For-JEJU">Groundwater Forecasting</a></b><br>LSTM, TCN, Transformer 등 딥러닝 시계열 성능 검증</li><br>
