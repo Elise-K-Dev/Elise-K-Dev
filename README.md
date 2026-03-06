@@ -26,44 +26,22 @@
 
 ### 📂 Featured Projects
 
-<div align="center">
-  <table width="90%">
-    <tr>
-      <td width="50%" valign="top">
-        <h4 align="center" style="border-bottom: 2px solid #F92672; padding-bottom: 5px;">🧠 AI & LLM</h4>
-        <br>
-        <div style="padding-left: 20px;">
-          <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="15" /> &nbsp;
-          <big><b><a href="https://github.com/Elise-K-Dev/Medical-CoT-SFT-Dataset-Generator" style="color: #F92672; text-decoration: none;">Medical-CoT-SFT</a></b></big>
-          <br><br>
-          
-          <img src="https://cdn.simpleicons.org/python/3776AB" height="15" /> &nbsp;
-          <big><b><a href="https://github.com/Elise-K-Dev/DeepSeek_Project" style="color: #9900CC; text-decoration: none;">DeepSeek-Project</a></b></big>
-          <br><br>
-          
-          <img src="https://cdn.simpleicons.org/nvidia/76B900" height="15" /> &nbsp;
-          <big><b><a href="https://github.com/Elise-K-Dev/HAI_LLM_Project" style="color: #F92672; text-decoration: none;">LG-EXAONE-Tuning</a></b></big>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center" style="border-bottom: 2px solid #9900CC; padding-bottom: 5px;">⚙️ Data & Infra</h4>
-        <br>
-        <div style="padding-left: 20px;">
-          <img src="https://cdn.simpleicons.org/rust/E43716" height="15" /> &nbsp;
-          <big><b><a href="#" style="color: #9900CC; text-decoration: none;">Enterprise-Docs-Auto</a></b></big>
-          <br><br>
-          
-          <img src="https://cdn.simpleicons.org/databricks/FF3621" height="15" /> &nbsp;
-          <big><b><a href="https://github.com/Elise-K-Dev/Groundwater-Forecasting-Model-For-JEJU" style="color: #F92672; text-decoration: none;">Forecasting-JEJU</a></b></big>
-          <br><br>
-          
-          <img src="https://cdn.simpleicons.org/docker/2496ED" height="15" /> &nbsp;
-          <big><b><a href="https://github.com/Elise-K-Dev/ubuntu-server-docker-setup" style="color: #9900CC; text-decoration: none;">Server-Setup-Script</a></b></big>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🧠 AI & LLM</h4>
+      <a href="https://github.com/Elise-K-Dev/Medical-CoT-SFT-Dataset-Generator"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" /> <b>Medical-CoT-SFT</b></a><br>
+      <a href="https://github.com/Elise-K-Dev/DeepSeek_Project"><img src="https://cdn.simpleicons.org/python/3776AB" height="14" /> <b>DeepSeek-Project</b></a><br>
+      <a href="https://github.com/Elise-K-Dev/HAI_LLM_Project"><img src="https://cdn.simpleicons.org/nvidia/76B900" height="14" /> <b>LG-EXAONE-Tuning</b></a>
+    </td>
+    <td width="50%" align="center">
+      <h4>⚙️ Data & Infra</h4>
+      <a href="#"><img src="https://cdn.simpleicons.org/rust/E43716" height="14" /> <b>Enterprise-Docs-Auto</b></a><br>
+      <a href="https://github.com/Elise-K-Dev/Groundwater-Forecasting-Model-For-JEJU"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="14" /> <b>Forecasting-JEJU</b></a><br>
+      <a href="https://github.com/Elise-K-Dev/ubuntu-server-docker-setup"><img src="https://cdn.simpleicons.org/docker/2496ED" height="14" /> <b>Server-Setup-Script</b></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
