@@ -21,26 +21,24 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <b>🧠 AI, ML & Hardware Acceleration</b><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/LLM_Fine--Tuning-FF9900?style=for-the-badge&logo=pytorch&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <br><br>
+  <b>🧠 AI, ML & Hardware Acceleration</b><br><br>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" title="PyTorch" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" title="TensorFlow" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="45" title="CUDA & NVIDIA Jetson" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amd/ED1C24" height="45" title="ROCm" />
+  <br><br><br>
 
-  <b>🦀 System & Data Processing</b><br>
-  <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Data_Engineering-1572B6?style=for-the-badge&logo=databricks&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <br><br>
+  <b>🦀 System & Data Processing</b><br><br>
+  <img src="https://cdn.simpleicons.org/rust/E43716" height="45" title="Rust" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" title="Python" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/databricks/FF3621" height="45" title="Data Engineering" />
+  <br><br><br>
 
-  <b>⚙️ Infrastructure, OS & Edge Devices</b><br>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=FFFFFF&labelColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=FFFFFF&labelColor=FFFFFF"/>
+  <b>⚙️ Infrastructure, OS & Edge Devices</b><br><br>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" title="Arch Linux" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" title="Ubuntu" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" title="Docker" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="45" title="Raspberry Pi" />
 </div>
 
 <br>
